@@ -1,0 +1,10 @@
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\bin\Debug\Week1.exe.config
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\bin\Debug\Week1.exe
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\bin\Debug\Week1.pdb
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Week1.frmLogin.resources
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Week1.Properties.Resources.resources
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Week1.exe
+C:\Users\DuongLapTop\source\repos\Windows-programming\Week1\obj\Debug\Week1.pdb
